@@ -70,3 +70,8 @@ li {
     font-size: 25px;
     font-weight: bold;
  }
+
+ .section-one {
+    border: 1px solid white;
+    background-color: darkslateblue;
+ }
