@@ -34,3 +34,21 @@ h2 {
     font-size: 40;
     text-align: left;
 }
+
+ul {
+    list-style-type: square;
+}
+
+ol {
+    list-style-type: upper-roman;
+}
+
+li {
+    color:white;
+    font-size: 20;
+    font-weight: bold;
+}
+
+.fave {
+    color:orangered;
+ }
