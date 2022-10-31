@@ -28,13 +28,13 @@ section {
 
 /* designating a % for width for an image allows a rescale when web brower moves */
 
- /* .cake-poster-item {
+.cake-poster-item {
     border: 1px solid yellow; 
     display: flex; 
     flex-wrap: wrap;
     width: 40%;   
     padding: 10px; 
- } */
+ } 
 
  
  /* .dark {
@@ -51,13 +51,13 @@ section {
 /*====footer styles====*/
 
 
- /* footer {
+footer {
     
-    background-color: white;
+    background-color: rgb(61, 59, 178);
     
-}  */
+} 
 
- /* .disclaimer {   
+.disclaimer {   
     padding: 5px;
     text-align: center;
-}  */
+} 
